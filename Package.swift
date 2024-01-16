@@ -16,7 +16,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "ColibrioReader",
-            url: "https://spm.pkg.colibrio.com/framework/ColibrioReader-3.9.0.xcframework.zip",
-            checksum: "9fcc43e9ba7436ee247fc42695343fa50e653878a39b1a21b1b9003d7feab31d"),
+            url: "https://spm.pkg.colibrio.com/framework/ColibrioReader-4.0.0-experimental.3.xcframework.zip",
+            checksum: "ddc3ecf5447ed70effcbd6009aaa1192882e4b7cb7b4b11a1cd01faa0a0600ae"),
     ]
 )
