@@ -1,3 +1,5 @@
+> **Warning** public-pkg-spm is deprecated. Please use https://bitbucket.org/colibrio/colibrio-pkg-spm instead.
+
 # Colibrio Reader Framework
 
 This repository contains the Colibrio Reader Framework iOS SDK.
