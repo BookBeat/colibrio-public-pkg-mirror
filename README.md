@@ -15,4 +15,4 @@ Developer documentation and links to our sample repositories can be found at [do
 Credentials are required to access this framework and a license is required to use it. If you are missing your license and credentials, [please contact Colibrio](https://www.colibrio.com/) to obtain your information.
 
 ## License
-Usage of this software is governed by this [license](https://www.colibrio.com/documents/licenses/colibrio-reader-framework-sdk.html).
+The license which governs the usage of this software can be found in the LICENSE file.
